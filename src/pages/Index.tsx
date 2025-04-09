@@ -362,7 +362,7 @@ const Index = () => {
             <Card className="border-0 shadow-lg overflow-hidden">
               <div className="aspect-w-4 aspect-h-5 bg-gray-100">
                 <img 
-                  src="/lovable-uploads/1fd6c00b-ff43-4680-9f35-7920ed98261a.png" 
+                  src="/lovable-uploads/52bde5ac-a7a1-44d8-94e3-d237c61f2daf.png" 
                   alt="Gaurav Kumar" 
                   className="object-cover w-full h-full"
                 />
@@ -374,7 +374,7 @@ const Index = () => {
                   An operations expert with deep knowledge of logistics and transportation systems, driving efficiency and excellence.
                 </p>
                 <a 
-                  href="https://www.linkedin.com/in/shivangtiwari23/" 
+                  href="https://www.linkedin.com/in/gaurav-kumar24/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="inline-flex items-center text-techealth-green hover:text-techealth-darkgreen font-medium"
@@ -388,7 +388,7 @@ const Index = () => {
             <Card className="border-0 shadow-lg overflow-hidden">
               <div className="aspect-w-4 aspect-h-5 bg-gray-100">
                 <img 
-                  src="/lovable-uploads/52bde5ac-a7a1-44d8-94e3-d237c61f2daf.png" 
+                  src="/lovable-uploads/f0da810e-b2c6-431f-bdae-e18c3142f4f7.png" 
                   alt="Shivang Tiwari" 
                   className="object-cover w-full h-full"
                 />
