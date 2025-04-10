@@ -136,7 +136,7 @@ const Footer = () => {
               Request a Demo
             </Button>
             <Link to="/contact">
-              <Button variant="outline" className="w-full border-white text-white hover:bg-white/10">
+              <Button variant="outline" className="w-full border-white text-black hover:bg-white/10">
                 Contact Us
               </Button>
             </Link>
