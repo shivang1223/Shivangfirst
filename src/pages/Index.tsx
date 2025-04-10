@@ -44,7 +44,7 @@ const Index = () => {
               <Button 
                 size="lg" 
                 variant="outline" 
-                className="border-white text-white hover:bg-white/20 shadow-lg hover:shadow-xl transition-all"
+                className="border-white text-black hover:bg-black/20 shadow-lg hover:shadow-xl transition-all"
                 onClick={() => setShowDemoForm(true)}
               >
                 Request Demo
